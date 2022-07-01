@@ -26,7 +26,3 @@ module.exports = {
 		},
 	},
 };
-
-// https://eth-rinkeby.alchemyapi.io/v2/LPCgUaxn3o1Eo07zvoc1e8A7Nkn9sUCF
-
-// 1498126d4a1d710da296695369326caede902bcebce70946e72fb1602f60de00
